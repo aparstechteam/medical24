@@ -1,0 +1,1 @@
+import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c as e}from"./index.675684a2.js";const a={};function c(o,t){return r(),e("div",null," admin ranking ")}var s=n(a,[["render",c]]);export{s as default};
