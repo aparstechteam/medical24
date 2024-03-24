@@ -1,1 +1,0 @@
-const a=e=>Intl.NumberFormat("bn-BD").format(e),n=e=>new Date(e).toLocaleDateString("bn-BD",{timeZone:"Asia/Dhaka",year:"numeric",month:"long",day:"numeric",hour:"numeric",minute:"numeric"}),o=e=>{var t=Math.floor(e/6e4),r=(e%6e4/1e3).toFixed(0);return t+":"+(r<10?"0":"")+r};export{a,n as f,o as m};
